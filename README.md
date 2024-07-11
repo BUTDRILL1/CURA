@@ -8,6 +8,11 @@ This repository contains the code and resources for CURA, a machine learning mod
 - **Generates summaries of contracts tailored to the user's needs**
 - **Outperforms other methods for identifying risks and generating summaries (based on your research findings)**
 
+## Working
+
+- **The environment used for building this model is Google Colab.**
+- **Runtime Model used is T4 GPU.**
+
 ## License
 
-This model is provided under a free license but is restricted from commercial use.
+- **This model is provided under a free license but is restricted from commercial use.**
