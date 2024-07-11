@@ -1,0 +1,62 @@
+{
+    "Key_Dates":
+        ["Agreement Date",
+        "Effective Date",
+        "Expiration Date",
+        "Renewal Term",
+        "Notice Period To Terminate Renewal"],
+
+    "Important_Submittals":
+        ["Document Name"],
+
+    "Insurance_Related":
+        ["Insurance"],
+
+    "Payment":
+        ["Revenue/Profit Sharing",
+        "Minimum Commitment"],
+
+    "Price_Adjustment":
+        ["Volume Restriction"],
+
+    "Variation":
+        ["Ip Ownership Assignment",
+        "Joint Ip Ownership",
+        "License Grant",
+        "Non-Transferable License",
+        "Source Code Escrow"],
+
+    "Taxation":
+        ["Uncapped Liability"],
+
+    "Notices":
+        ["No-Disparagement",
+        "Covenant Not To Sue",
+        "Termination For Convenience",
+        "Post-Termination Services"],
+
+    "Responsibilities_and_Duties_of_Contractor":
+        ["No-Solicit Of Customers",
+        "No-Solicit Of Employees"],
+
+    "Responsibilities_and_Duties_of_Employer_and_Engineer":
+        ["Warrant Duration"],
+
+    "Default_of_Contractor_and_Employers":
+        ["Liquidated Damages"],
+
+    "Employer's_Claims":
+        ["Audit Rights"],
+
+    "Procedures_for_Claims":
+        ["Dispute Settlement"],
+
+    "Dispute_Settlement":
+        ["Most Favored Nation",
+        "Competitive Restriction Exception",
+        "Rofr/Rofo/Rofn"],
+
+    "General":
+        ["Third Party Beneficiary",
+        "Governing Law"]
+}
